@@ -10,6 +10,8 @@
 | #3| 2025-1-12| Mummies in the Morning|
 | #4| 2025-1-13| Pirates Past Noon|
 | #5| 2025-1-17| Night of the Ninjas|
+| #6| 2025-2-6| Afternoon on the Amazon|
+| #7| 2025-2-9| Sunset of the Sabertooth|
 
 
 
